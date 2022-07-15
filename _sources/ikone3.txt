@@ -1,0 +1,190 @@
+
+.. |bug| image:: ../_images/ikone3/bug.png
+
+.. |knjiga| image:: ../_images/ikone3/knjiga.png
+
+.. |pitaj| image:: ../_images/ikone3/pitaj.png
+
+.. |pokusaj| image:: ../_images/ikone3/pokusaj.png
+
+.. |project| image:: ../_images/ikone3/project.png
+
+.. |prouci| image:: ../_images/ikone3/prouci.png
+
+
+.. |alat1| image:: ../_images/ikone3/alat1.png
+
+.. |alat2| image:: ../_images/ikone3/alat2.png
+
+.. |alat3| image:: ../_images/ikone3/alat3.png
+
+.. |alat4| image:: ../_images/ikone3/alat4.png
+
+.. |alat5| image:: ../_images/ikone3/alat5.png
+
+.. |alat6| image:: ../_images/ikone3/alat6.png
+
+.. |popuni| image:: ../_images/ikone3/popuni.png
+
+.. |debljina| image:: ../_images/ikone3/debljina.png
+
+.. |zameni_boje| image:: ../_images/ikone3/zameni_boje.png
+
+.. |ime| image:: ../_images/ikone3/ime_kostima.png
+
+.. |redo| image:: ../_images/ikone3/redo.png
+
+.. |prevedi_raster| image:: ../_images/ikone3/prevedi_raster.png
+
+.. |prevedi_vektor| image:: ../_images/ikone3/prevedi_vektor.png
+
+.. |kontura| image:: ../_images/ikone3/kontura.png
+
+
+.. |gf| image:: ../_images/ikone3/gf.png
+
+.. |centar| image:: ../_images/ikone3/centar.png
+
+.. |nacin_okreta| image:: ../_images/ikone3/nacin_okreta.png
+
+.. |dugme_pozadina| image:: ../_images/ikone3/dugme_pozadina.png
+
+.. |dugme_lik| image:: ../_images/ikone3/dugme_lik.png
+
+.. |dugme_zvuk| image:: ../_images/ikone3/dugme_zvuk.png
+
+.. |zahteva| image:: ../_images/ikone3/zahteva.png
+
+
+
+.. |ralat1| image:: ../_images/ikone3/ralat1.png
+
+.. |ralat2| image:: ../_images/ikone3/ralat2.png
+
+.. |ralat3| image:: ../_images/ikone3/ralat3.png
+
+.. |ralat4| image:: ../_images/ikone3/ralat4.png
+
+.. |ralat5| image:: ../_images/ikone3/ralat5.png
+
+.. |ralat6| image:: ../_images/ikone3/ralat6.png
+
+.. |ralat7| image:: ../_images/ikone3/ralat7.png
+
+.. |ralat8| image:: ../_images/ikone3/ralat8.png
+
+.. |valat1| image:: ../_images/ikone3/valat1.png
+
+.. |valat2| image:: ../_images/ikone3/valat2.png
+
+.. |valat3| image:: ../_images/ikone3/valat3.png
+
+.. |valat4| image:: ../_images/ikone3/valat4.png
+
+.. |valat5| image:: ../_images/ikone3/valat5.png
+
+.. |valat6| image:: ../_images/ikone3/valat6.png
+
+.. |valat7| image:: ../_images/ikone3/valat7.png
+
+.. |valat8| image:: ../_images/ikone3/valat8.png
+
+.. |valat9| image:: ../_images/ikone3/valat9.png
+
+.. |valat10| image:: ../_images/ikone3/valat10.png
+
+.. |valat11| image:: ../_images/ikone3/valat11.png
+
+.. |valat12| image:: ../_images/ikone3/valat12.png
+
+.. |valat13| image:: ../_images/ikone3/valat13.png
+
+.. |valat14| image:: ../_images/ikone3/valat14.png
+
+.. |valat15| image:: ../_images/ikone3/valat15.png
+
+.. |valat16| image:: ../_images/ikone3/valat16.png
+
+.. |valat17| image:: ../_images/ikone3/valat17.png
+
+.. |prijem| image:: ../_images/ikone3/prijem.png
+
+.. |razglas| image:: ../_images/ikone3/razglas.png
+
+.. |razglas2| image:: ../_images/ikone3/razglas2.png
+
+.. |zum| image:: ../_images/ikone3/zum.png
+
+
+.. |opseci| image:: ../_images/ikone3/opseci.png
+
+.. |faster| image:: ../_images/ikone3/faster.png
+
+.. |slower| image:: ../_images/ikone3/slower.png
+
+.. |echo| image:: ../_images/ikone3/echo.png
+
+.. |robot| image:: ../_images/ikone3/robot.png
+
+.. |louder| image:: ../_images/ikone3/louder.png
+
+.. |softer| image:: ../_images/ikone3/softer.png
+
+.. |reverse| image:: ../_images/ikone3/reverse.png
+
+
+
+.. |1| image:: ../_images/ikone3/1.png
+
+.. |2| image:: ../_images/ikone3/2.png
+
+.. |3| image:: ../_images/ikone3/3.png
+
+.. |4| image:: ../_images/ikone3/4.png
+
+.. |5| image:: ../_images/ikone3/5.png
+
+.. |6| image:: ../_images/ikone3/6.png
+
+.. |7| image:: ../_images/ikone3/7.png
+
+.. |8| image:: ../_images/ikone3/8.png
+
+.. |9| image:: ../_images/ikone3/9.png
+
+.. |10| image:: ../_images/ikone3/10.png
+
+.. |11| image:: ../_images/ikone3/11.png
+
+.. |12| image:: ../_images/ikone3/12.png
+
+
+.. |ok| image:: ../_images/ikone3/ok.png
+
+.. |*| image:: ../_images/ikone3/zvezdica.png
+
+.. |!=| image:: ../_images/ikone3/razlicito.png
+
+
+.. |paleta1| image:: ../_images/ikone3/paleta1.png
+
+.. |paleta2| image:: ../_images/ikone3/paleta2.png
+
+.. |paleta3| image:: ../_images/ikone3/paleta3.png
+
+.. |paleta4| image:: ../_images/ikone3/paleta4.png
+
+.. |paleta5| image:: ../_images/ikone3/paleta5.png
+
+.. |paleta6| image:: ../_images/ikone3/paleta6.png
+
+.. |paleta7| image:: ../_images/ikone3/paleta7.png
+
+.. |paleta8| image:: ../_images/ikone3/paleta8.png
+
+.. |paleta9| image:: ../_images/ikone3/paleta9.png
+
+.. |paleta10| image:: ../_images/ikone3/paleta10.png
+
+.. |paleta11| image:: ../_images/ikone3/paleta11.png
+

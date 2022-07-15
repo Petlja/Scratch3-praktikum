@@ -1,0 +1,361 @@
+
+.. |kretanje| image:: ../_images/blokovi3/kretanje.png
+
+
+.. |idi_koraka| image:: ../_images/blokovi3/idi_koraka.png
+
+.. |okret_udesno| image:: ../_images/blokovi3/okret_udesno.png
+
+.. |okret_ulevo| image:: ../_images/blokovi3/okret_ulevo.png
+
+.. |usmeri_ka| image:: ../_images/blokovi3/usmeri_ka.png
+
+.. |usmeri_objektu| image:: ../_images/blokovi3/usmeri_objektu.png
+
+.. |idi_xy| image:: ../_images/blokovi3/idi_xy.png
+
+.. |idi_do| image:: ../_images/blokovi3/idi_do.png
+
+.. |klizi_do| image:: ../_images/blokovi3/klizi_do.png
+
+.. |klizi_xy| image:: ../_images/blokovi3/klizi_xy.png
+
+.. |promeni_x| image:: ../_images/blokovi3/promeni_x.png
+
+.. |neka_x| image:: ../_images/blokovi3/neka_x.png
+
+.. |promeni_y| image:: ../_images/blokovi3/promeni_y.png
+
+.. |neka_y| image:: ../_images/blokovi3/neka_y.png
+
+.. |ako_si| image:: ../_images/blokovi3/ako_si.png
+
+.. |nacin_okretanja| image:: ../_images/blokovi3/nacin_okretanja.png
+
+.. |mesto_x| image:: ../_images/blokovi3/mesto_x.png
+
+.. |mesto_y| image:: ../_images/blokovi3/mesto_y.png
+
+.. |smer| image:: ../_images/blokovi3/smer.png
+
+
+.. |dogadjaji| image:: ../_images/blokovi3/dogadjaji.png
+
+
+.. |zelena_zastavica| image:: ../_images/blokovi3/zelena_zastavica.png
+
+.. |dirka| image:: ../_images/blokovi3/dirka.png
+
+.. |klik_lik| image:: ../_images/blokovi3/klik_lik.png
+
+.. |klik_pozornica| image:: ../_images/blokovi3/klik_pozornica.png
+
+.. |promena_pozadine| image:: ../_images/blokovi3/promena_pozadine.png
+
+.. |kad_vece| image:: ../_images/blokovi3/kad_vece.png
+
+.. |kad_primim| image:: ../_images/blokovi3/kad_primim.png
+
+.. |razglasi| image:: ../_images/blokovi3/razglasi.png
+
+.. |razglasi_cekaj| image:: ../_images/blokovi3/razglasi_cekaj.png
+
+
+.. |izgled| image:: ../_images/blokovi3/izgled.png
+
+
+.. |izgovori| image:: ../_images/blokovi3/izgovori.png
+
+.. |izgovori_sec| image:: ../_images/blokovi3/izgovori_sec.png
+
+.. |zamisli| image:: ../_images/blokovi3/zamisli.png
+
+.. |zamisli_sec| image:: ../_images/blokovi3/zamisli_sec.png
+
+.. |prikazi| image:: ../_images/blokovi3/prikazi.png
+
+.. |sakrij| image:: ../_images/blokovi3/sakrij.png
+
+.. |zameni_kostim| image:: ../_images/blokovi3/zameni_kostim.png
+
+.. |sledeci_kostim| image:: ../_images/blokovi3/sledeci_kostim.png
+
+.. |zameni_pozadinu| image:: ../_images/blokovi3/zameni_pozadinu.png
+
+.. |zameni_poz_cekaj| image:: ../_images/blokovi3/zameni_poz_cekaj.png
+
+.. |sledeca_pozadina| image:: ../_images/blokovi3/sledeca_pozadina.png
+
+.. |promeni_efekat| image:: ../_images/blokovi3/promeni_efekat.png
+
+.. |neka_efekat| image:: ../_images/blokovi3/neka_efekat.png
+
+.. |ukloni_efekte| image:: ../_images/blokovi3/ukloni_efekte.png
+
+.. |promeni_velicinu| image:: ../_images/blokovi3/promeni_velicinu.png
+
+.. |neka_velicina| image:: ../_images/blokovi3/neka_velicina.png
+
+.. |predji_napred| image:: ../_images/blokovi3/predji_napred.png
+
+.. |idi_iza| image:: ../_images/blokovi3/idi_iza.png
+
+.. |kostim_broj| image:: ../_images/blokovi3/kostim_broj.png
+
+.. |pozadina_broj| image:: ../_images/blokovi3/pozadina_broj.png
+
+.. |velicina| image:: ../_images/blokovi3/velicina.png
+
+
+.. |upravljanje| image:: ../_images/blokovi3/upravljanje.png
+
+
+.. |cekaj| image:: ../_images/blokovi3/cekaj.png
+
+.. |zauvek| image:: ../_images/blokovi3/zauvek.png
+
+.. |ponavljaj| image:: ../_images/blokovi3/ponavljaj.png
+
+.. |ako_onda| image:: ../_images/blokovi3/ako_onda.png
+
+.. |ako_onda_inace| image:: ../_images/blokovi3/ako_onda_inace.png
+
+.. |cekaj_dok_ne| image:: ../_images/blokovi3/cekaj_dok_ne.png
+
+.. |ponavljaj_do| image:: ../_images/blokovi3/ponavljaj_do.png
+
+.. |zaustavi| image:: ../_images/blokovi3/zaustavi.png
+
+.. |kad_umnozak| image:: ../_images/blokovi3/kad_umnozak.png
+
+.. |napravi_umnozak| image:: ../_images/blokovi3/napravi_umnozak.png
+
+.. |obrisi_umnozak| image:: ../_images/blokovi3/obrisi_umnozak.png
+
+
+.. |zvuk| image:: ../_images/blokovi3/zvuk.png
+
+
+.. |pokreni_zvuk| image:: ../_images/blokovi3/pokreni_zvuk.png
+
+.. |reprodukuj_kraj| image:: ../_images/blokovi3/reprodukuj_kraj.png
+
+.. |tisina| image:: ../_images/blokovi3/tisina.png
+
+.. |promeni_jacinu| image:: ../_images/blokovi3/promeni_jacinu.png
+
+.. |neka_jacina| image:: ../_images/blokovi3/neka_jacina.png
+
+.. |promeni_zvucni_efekat| image:: ../_images/blokovi3/promeni_zvucni_efekat.png
+
+.. |neka_zvucni_efekat| image:: ../_images/blokovi3/neka_zvucni_efekat.png
+
+.. |obrisi_zvucne_efekte| image:: ../_images/blokovi3/obrisi_zvucne_efekte.png
+
+.. |jacina_zvuka| image:: ../_images/blokovi3/jacina_zvuka.png
+
+
+.. |osecaji| image:: ../_images/blokovi3/osecaji.png
+
+
+.. |dodiruje| image:: ../_images/blokovi3/dodiruje.png
+
+.. |dodiruje_boju| image:: ../_images/blokovi3/dodiruje_boju.png
+
+.. |boja_dodiruje_boju| image:: ../_images/blokovi3/boja_dodiruje_boju.png
+
+.. |rastojanje| image:: ../_images/blokovi3/rastojanje.png
+
+.. |pitaj_cekaj| image:: ../_images/blokovi3/pitaj_cekaj.png
+
+.. |odgovor| image:: ../_images/blokovi3/odgovor.png
+
+.. |dirka_pritisnuta| image:: ../_images/blokovi3/dirka_pritisnuta.png
+
+.. |mis_pritisnut| image:: ../_images/blokovi3/mis_pritisnut.png
+
+.. |mis_x| image:: ../_images/blokovi3/mis_x.png
+
+.. |mis_y| image:: ../_images/blokovi3/mis_y.png
+
+.. |glasnost| image:: ../_images/blokovi3/glasnost.png
+
+.. |tajmer| image:: ../_images/blokovi3/tajmer.png
+
+.. |postavi_tajmer| image:: ../_images/blokovi3/postavi_tajmer.png
+
+.. |neka_prevlacenje| image:: ../_images/blokovi3/neka_prevlacenje.png
+
+.. |parametar_lika| image:: ../_images/blokovi3/parametar_lika.png
+
+.. |vreme| image:: ../_images/blokovi3/vreme.png
+
+.. |koliko_dana| image:: ../_images/blokovi3/koliko_dana.png
+
+.. |korisnicko_ime| image:: ../_images/blokovi3/korisnicko_ime.png
+
+
+.. |operatori| image:: ../_images/blokovi3/operatori.png
+
+
+.. |plus| image:: ../_images/blokovi3/plus.png
+
+.. |minus| image:: ../_images/blokovi3/minus.png
+
+.. |puta| image:: ../_images/blokovi3/puta.png
+
+.. |podeli| image:: ../_images/blokovi3/podeli.png
+
+.. |slucajan_broj| image:: ../_images/blokovi3/slucajan_broj.png
+
+.. |manje| image:: ../_images/blokovi3/manje.png
+
+.. |jednako| image:: ../_images/blokovi3/jednako.png
+
+.. |vece| image:: ../_images/blokovi3/vece.png
+
+.. |and| image:: ../_images/blokovi3/and.png
+
+.. |or| image:: ../_images/blokovi3/or.png
+
+.. |not| image:: ../_images/blokovi3/not.png
+
+.. |tekst_sadrzi| image:: ../_images/blokovi3/tekst_sadrzi.png
+
+.. |povezi| image:: ../_images/blokovi3/povezi.png
+
+.. |slovo| image:: ../_images/blokovi3/slovo.png
+
+.. |duzina_teksta| image:: ../_images/blokovi3/duzina_teksta.png
+
+.. |mod| image:: ../_images/blokovi3/mod.png
+
+.. |zaokruzi| image:: ../_images/blokovi3/zaokruzi.png
+
+.. |funkcija| image:: ../_images/blokovi3/funkcija.png
+
+
+.. |promenljive| image:: ../_images/blokovi3/promenljive.png
+
+
+.. |neka_var| image:: ../_images/blokovi3/neka_var.png
+
+.. |promeni_var| image:: ../_images/blokovi3/promeni_var.png
+
+.. |pokazi_var| image:: ../_images/blokovi3/pokazi_var.png
+
+.. |sakrij_var| image:: ../_images/blokovi3/sakrij_var.png
+
+.. |promenljiva| image:: ../_images/blokovi3/promenljiva.png
+
+
+.. |dodaj| image:: ../_images/blokovi3/dodaj.png
+
+.. |izbaci| image:: ../_images/blokovi3/izbaci.png
+
+.. |izbaci_sve| image:: ../_images/blokovi3/izbaci_sve.png
+
+.. |ubaci| image:: ../_images/blokovi3/ubaci.png
+
+.. |zameni| image:: ../_images/blokovi3/zameni.png
+
+.. |element| image:: ../_images/blokovi3/element.png
+
+.. |duzina_liste| image:: ../_images/blokovi3/duzina_liste.png
+
+.. |sadrzi| image:: ../_images/blokovi3/sadrzi.png
+
+.. |index_elementa| image:: ../_images/blokovi3/index_elementa.png
+
+.. |pokazi_listu| image:: ../_images/blokovi3/pokazi_listu.png
+
+.. |sakrij_listu| image:: ../_images/blokovi3/sakrij_listu.png
+
+.. |lista| image:: ../_images/blokovi3/lista.png
+
+
+.. |moji_blokovi| image:: ../_images/blokovi3/moji_blokovi.png
+
+
+.. |nova_naredba| image:: ../_images/blokovi3/nova_naredba.png
+
+.. |definicija| image:: ../_images/blokovi3/definicija.png
+
+
+
+.. |prosirenja| image:: ../_images/blokovi3/prosirenja.png
+
+
+
+.. |muzika| image:: ../_images/blokovi3/muzika.png
+
+
+.. |udaraljka| image:: ../_images/blokovi3/udaraljka.png
+
+.. |pauza| image:: ../_images/blokovi3/pauza.png
+
+.. |sviraj_notu| image:: ../_images/blokovi3/sviraj_notu.png
+
+.. |neka_instrument| image:: ../_images/blokovi3/neka_instrument.png
+
+.. |promeni_tempo| image:: ../_images/blokovi3/promeni_tempo.png
+
+.. |neka_tempo| image:: ../_images/blokovi3/neka_tempo.png
+
+.. |tempo| image:: ../_images/blokovi3/tempo.png
+
+
+.. |olovka| image:: ../_images/blokovi3/olovka.png
+
+
+.. |obrisi| image:: ../_images/blokovi3/obrisi.png
+
+.. |pecat| image:: ../_images/blokovi3/pecat.png
+
+.. |podigni| image:: ../_images/blokovi3/podigni.png
+
+.. |spusti| image:: ../_images/blokovi3/spusti.png
+
+.. |neka_boja| image:: ../_images/blokovi3/neka_boja.png
+
+.. |promeni_olovku| image:: ../_images/blokovi3/promeni_olovku.png
+
+.. |neka_olovka| image:: ../_images/blokovi3/neka_olovka.png
+
+.. |promeni_debljinu| image:: ../_images/blokovi3/promeni_debljinu.png
+
+.. |neka_debljina| image:: ../_images/blokovi3/neka_debljina.png
+
+
+.. |video_detekcija| image:: ../_images/blokovi3/video_detekcija.png
+
+
+.. |kad_video| image:: ../_images/blokovi3/kad_video.png
+
+.. |podesi_video| image:: ../_images/blokovi3/podesi_video.png
+
+.. |providnost_videa| image:: ../_images/blokovi3/providnost_videa.png
+
+.. |video_kretanje| image:: ../_images/blokovi3/video_kretanje.png
+
+
+.. |tekst_govor| image:: ../_images/blokovi3/tekst_govor.png
+
+
+.. |govori| image:: ../_images/blokovi3/govori.png
+
+.. |neka_glas| image:: ../_images/blokovi3/neka_glas.png
+
+.. |neka_jezik| image:: ../_images/blokovi3/neka_jezik.png
+
+
+.. |prevedi| image:: ../_images/blokovi3/prevedi.png
+
+
+.. |prevedi_na| image:: ../_images/blokovi3/prevedi_na.png
+
+.. |jezik| image:: ../_images/blokovi3/jezik.png
+
+
+
+
